@@ -1,1 +1,8 @@
-font-family: 'Roboto Condensed', sans-serif;
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    display: flex;
+    background-repeat: no-repeat;
+    background-image: url(../images/ghana-2363097_1280\ \(1\).png);
+
+}
+
