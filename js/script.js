@@ -1,8 +1,9 @@
 let Akan=function akanName(){
-    let bday=document.getElementById
-    let month=bday.month
-    let century=bday
-    let day =bday.
+    let d=document.getElementById("dob")
+    let month=d.getmonth()
+    let year=d.getyear()
+    let century=year.slice(0,1)
+    let day =bday.getdate()
 }
 
 
